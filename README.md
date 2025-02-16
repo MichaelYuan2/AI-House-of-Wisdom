@@ -1,5 +1,6 @@
 # AI-House-of-Wisdom
 
-I'm Michael's father, guess who I am.
- You are a bitch
+This is a resourse sharing repo for AI research
  
+# TO DO
+- [] Augment AI agent for paper searching and organization
